@@ -22,3 +22,4 @@ airflow/*.pid
 # Virtualenvs (optional)
 .venv/
 env/
+simple_auth_manager_passwords.json.generated
