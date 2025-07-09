@@ -64,3 +64,5 @@ Airflow will:
 streamlit run airflow/Scripts/dashboard.py
 ```
 
+![Screenshot 2025-07-09 190512](https://github.com/user-attachments/assets/678989ce-8907-4b8b-81d1-364fe9dee2a6)
+![Screenshot 2025-07-09 190908](https://github.com/user-attachments/assets/8b8b2852-b9f7-4931-98bc-062d20595723)
