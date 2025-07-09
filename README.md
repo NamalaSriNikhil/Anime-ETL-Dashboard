@@ -1,4 +1,4 @@
-# Anime-ETL-Dashboard-
+# Anime-ETL-Dashboard
 ETL pipeline and Streamlit dashboard for popular anime using Jikan API
 
 # 🌸 Popular Anime ETL Dashboard
